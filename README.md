@@ -59,7 +59,7 @@ del a['dina']
 for item in a.items():
     print(item)
 ```
-**Output dari Inputan di atas**
+**Output dari Inputan di atas**<br>
 ![Latihan](pict/output.png)
 
 ## Praktikum_Ke_5
